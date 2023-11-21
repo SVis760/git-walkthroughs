@@ -1,2 +1,2 @@
 # git-walkthroughs
-a git walkthrough on different how-to's with git
+a compilation of git walkthrough and different how-to's with git
